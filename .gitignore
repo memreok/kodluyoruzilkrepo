@@ -1,4 +1,4 @@
 *.img
 *.jpg
-*.png
-!*resim/resim1.png
+!*resim1.png
+
