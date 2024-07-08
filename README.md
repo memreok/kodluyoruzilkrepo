@@ -28,4 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ### Son olarak index.html ekran görüntüsü
 
-![](resim/resim1.png)
+![ekran](resim1.png)
