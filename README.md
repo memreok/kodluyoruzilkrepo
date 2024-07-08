@@ -25,3 +25,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://mit.edu)
+
+### Son olarak index.html ekran görüntüsü
+
+![](resim/resim1.png)
