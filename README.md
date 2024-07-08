@@ -13,10 +13,10 @@ git clone https://github.com/memreok/kodluyoruzilkrepo
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için: 
-`
+```
 cd kodluyoruzilrepo
 code .
-`
+```
 
 ## Contributing
 
